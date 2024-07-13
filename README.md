@@ -7,12 +7,8 @@ I wore a lot of different hats in order to build and deploy the projects.
 A little front end there. 
 Some back end there. 
 Put on the the DevOps hat to setup cloud environments and manage network traffic.
-The red hat keep things as secure as possible.
 
-Now I'm taking my time and working on filling in gaps in knowledge. 
-Currently focusing on improving my design and front end skills so I can showcase my work exactly the way I would like to.
-
-Also exporing web development with Rust and Leptos.
+Now I'm taking my time and working on filling in gaps in knowledge. I'm looking to learn and grow as much as I can by contributing to open source codebases.
 
 ## Skills
 
@@ -23,7 +19,6 @@ Also exporing web development with Rust and Leptos.
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/jorge-a-martinez-obando)
 - [Twitter](https://twitter.com/jorgemathman)
 - [Portfolio/Website (coming soon)]()
 
