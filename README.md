@@ -20,7 +20,6 @@ Now I'm taking my time and working on filling in gaps in knowledge. I'm looking 
 ## Connect with Me
 
 - [Twitter](https://twitter.com/jorgemathman)
-- [Portfolio/Website (coming soon)]()
 
 ## Let's Collaborate!
 
