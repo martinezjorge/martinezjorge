@@ -12,7 +12,7 @@ Now I'm taking my time and working on filling in gaps in knowledge. I'm looking 
 
 ## Skills
 
-- **Languages:** Python, Typescript, currently building in Rust
+- **Languages:** Rust, Solidity, Python, Typescript
 - **Technologies:** Jupyter Notebooks, Pandas, Flask, Express, React
 - **Databases:** PostgreSQL, MySQL
 - **Other Skills:** System Design, Full Stack Development, AWS, Nginx
@@ -24,4 +24,3 @@ Now I'm taking my time and working on filling in gaps in knowledge. I'm looking 
 ## Let's Collaborate!
 
 I'm always open to new opportunities and collaborations. Feel free to reach out if you have interesting projects or just want to connect!
-
